@@ -1,6 +1,6 @@
 Feature: code-breaker submits guess
 
-  The code-breaker submits a guess of four numbers. The game marks rge guess
+  The code-breaker submits a guess of four numbers. The game marks the guess
   with + and = signs.
 
   For each number in the guess that matches the number and position of a number
